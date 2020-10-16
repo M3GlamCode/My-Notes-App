@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Notes</string>
+
+    <string name="title">This is my first note This is my first note This is my first note This is my first note</string>
+    <string name="date">21/04/2020</string>
+    <string name="body">This is the body of my first note</string>
+
+    <string name="title_hint">Title</string>
+    <string name="body_hint"><i>Add your note here!</i></string>
+
+    <string name="add_btn">+ Add</string>
+    <string name="save_btn">Save</string>
+    <string name="delete_btn">Delete</string>
+    <string name="delete_all_btn">Delete all</string>
+    <string name="settings">Settings</string>
+    <string name="add_voice_recording">Recording</string>
+    <string name="add_note">Note</string>
+    <string name="recording_note"><i>Add a note</i></string>
+
+    <string name="new_note">New Note</string>
+    <string name="new_recording">New Recording</string>
+
+    <string name="delete_dialog_title">Confirm delete</string>
+    <string name="delete_dialog_message">Are you sure you want to delete all notes?</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="missing_media_alert_title">Missing media</string>
+    <string name="missing_media_alert_message">The audio file seems to have been deleted. Kindly make a recording</string>
+
+    <string name="empty_view">You have not added any notes yet!\n Click on the ADD button to get started</string>
+
+    <string name="change_theme">Change Theme</string>
+
+    <string name="time">0:00</string>
+
+</resources>
